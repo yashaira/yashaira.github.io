@@ -1,0 +1,56 @@
+.row-footer{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content: space-around; 
+}
+
+.footerIteams {
+    background-color:black;
+    color:white;
+    border:0px;
+    font-size: 20px;
+    
+}
+
+.footerLinks{
+    color:white;
+}
+
+
+.row-mid{
+    display:flex;
+    justify-content:center;
+}
+
+.rowAboutMe{
+    display:flex;
+    justify-content:space-around;
+    margin-top:50px;
+}
+
+.headshot{
+    width:20%;
+    height:20%;
+    border-radius:400px;
+    
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+.row-contact{
+    display: flex; 
+    justify-content: space-around;
+}
